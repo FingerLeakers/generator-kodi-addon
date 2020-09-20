@@ -40,3 +40,11 @@ Apache-2.0 © [Kolja Lampe]()
 [daviddm-url-dev]: https://david-dm.org/xbmc/generator-kodi-addon?type=dev
 [coveralls-image]: https://coveralls.io/repos/xbmc/generator-kodi-addon/badge.svg
 [coveralls-url]: https://coveralls.io/r/xbmc/generator-kodi-addon
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
